@@ -44,10 +44,7 @@ We welcome contributions from the community, including but not limited to:
 
 There is always risk of loss in trading. **All trading strategies are used at your own risk**
 
-*The volumes of many cryptocurrency markets are still low. Market impact and slippage may badly affect the results during live trading.*
+*The volumes of many cryptocurrency markets are still low. Market impact and slippage may badly affect the results during live trading.
 
-## Donation
-If you have made some profits because of this project or you just love reading our codes, please consider making a small donation to our ongoing projects via the following BTC or ETH address. All donations will be used as student stipends. 
-
-* BTC: [1PEHK1nVi8x4HQM1A67anyfYzdDFoqUo21](https://blockchain.info/address/1PEHK1nVi8x4HQM1A67anyfYzdDFoqUo21)
-* ETH: [0xa8197289e16C0cCad0a4838719ce11C9A920cfB7](https://etherscan.io/address/0xa8197289e16C0cCad0a4838719ce11C9A920cfB7)
+More repos can be found on:
+https://paperswithcode.com/paper/a-deep-reinforcement-learning-framework-for
